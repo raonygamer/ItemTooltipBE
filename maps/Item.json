@@ -1,0 +1,15 @@
+{
+    "vtable": [],
+    "includes": [],
+    "variables": {},
+    "functions": [
+        {
+            "name": "?appendFormattedHovertext@Item@@QEBAXAEBVItemStackBase@@AEAVLevel@@AEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z",
+            "address": "E8 ? ? ? ? 48 8D 43 10"
+        },
+        {
+            "name": "?getCommandName@Item@@QEBAAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ",
+            "address": "48 8B 81 ? ? ? ? 48 8B D1 48 85 C0 74 1B"
+        }
+    ]
+}

@@ -1,9 +1,14 @@
 {
-    "nameId": "Example",
-    "name": "Template Name",
-    "description": "Template Description",
+    "nameId": "ItemTooltip",
+    "name": "Item Tooltip",
+    "description": "...",
     "version": "1.0.0",
     "mcversion": [
-        "1.14.60.5"
+        "1.14.60.5",
+        "1.16.0.4",
+        "1.16.100.4",
+        "1.20.10.20",
+        "1.12.1.1",
+        "1.19.83.1"
     ]
 }
